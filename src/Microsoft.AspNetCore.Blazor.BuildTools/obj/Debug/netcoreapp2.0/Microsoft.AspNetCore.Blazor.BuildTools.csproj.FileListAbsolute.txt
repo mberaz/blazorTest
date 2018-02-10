@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.BuildTools\tools\Microsoft.AspNetCore.Blazor.BuildTools.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.BuildTools\tools\Microsoft.AspNetCore.Blazor.BuildTools.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.BuildTools\tools\Microsoft.AspNetCore.Blazor.BuildTools.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.BuildTools\tools\Microsoft.AspNetCore.Blazor.BuildTools.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.BuildTools\tools\Microsoft.AspNetCore.Blazor.BuildTools.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.BuildTools\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.BuildTools.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.BuildTools\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.BuildTools.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.BuildTools\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.BuildTools.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.BuildTools\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.BuildTools.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.BuildTools\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.BuildTools.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.BuildTools\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.BuildTools.pdb

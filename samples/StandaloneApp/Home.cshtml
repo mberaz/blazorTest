@@ -1,0 +1,15 @@
+﻿<button type="button" @onclick(click)>@buttonText</button>
+<h1>Hello, world! @test</h1>
+<label>label</label>
+
+
+@functions{
+    string test = "michael";
+    string buttonText = "click";
+
+    void click()
+    {
+        test = "clicked";
+
+    }
+}

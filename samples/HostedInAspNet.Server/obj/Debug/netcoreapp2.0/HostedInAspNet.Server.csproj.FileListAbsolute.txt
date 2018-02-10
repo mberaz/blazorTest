@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Server\bin\Debug\netcoreapp2.0\HostedInAspNet.Client.blazor.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Server\bin\Debug\netcoreapp2.0\HostedInAspNet.Server.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Server\bin\Debug\netcoreapp2.0\HostedInAspNet.Server.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Server\bin\Debug\netcoreapp2.0\HostedInAspNet.Server.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Server\bin\Debug\netcoreapp2.0\HostedInAspNet.Server.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Server\bin\Debug\netcoreapp2.0\HostedInAspNet.Server.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Server\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Server\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Server.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Server\obj\Debug\netcoreapp2.0\HostedInAspNet.Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Server\obj\Debug\netcoreapp2.0\HostedInAspNet.Server.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Server\obj\Debug\netcoreapp2.0\HostedInAspNet.Server.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Server\obj\Debug\netcoreapp2.0\HostedInAspNet.Server.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Server\obj\Debug\netcoreapp2.0\HostedInAspNet.Server.pdb

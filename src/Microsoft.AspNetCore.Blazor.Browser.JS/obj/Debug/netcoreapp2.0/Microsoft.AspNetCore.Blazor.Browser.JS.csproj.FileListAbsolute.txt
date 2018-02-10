@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser.JS\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.JS.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser.JS\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.JS.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser.JS\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.JS.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser.JS\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.JS.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser.JS\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Common.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser.JS\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Common.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser.JS\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.JS.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser.JS\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.JS.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser.JS\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.JS.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser.JS\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.JS.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser.JS\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.JS.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Browser\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\anglesharp\AngleSharpBuilder\bin\Debug\netcoreapp2.0\AngleSharpBuilder.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\anglesharp\AngleSharpBuilder\bin\Debug\netcoreapp2.0\AngleSharpBuilder.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\anglesharp\AngleSharpBuilder\bin\Debug\netcoreapp2.0\AngleSharpBuilder.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\anglesharp\AngleSharpBuilder\bin\Debug\netcoreapp2.0\AngleSharpBuilder.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\anglesharp\AngleSharpBuilder\bin\Debug\netcoreapp2.0\AngleSharpBuilder.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\anglesharp\AngleSharpBuilder\obj\Debug\netcoreapp2.0\AngleSharpBuilder.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\anglesharp\AngleSharpBuilder\obj\Debug\netcoreapp2.0\AngleSharpBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\anglesharp\AngleSharpBuilder\obj\Debug\netcoreapp2.0\AngleSharpBuilder.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\anglesharp\AngleSharpBuilder\obj\Debug\netcoreapp2.0\AngleSharpBuilder.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\anglesharp\AngleSharpBuilder\obj\Debug\netcoreapp2.0\AngleSharpBuilder.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\anglesharp\AngleSharpBuilder\obj\Debug\netcoreapp2.0\AngleSharpBuilder.pdb

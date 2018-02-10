@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Server\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Server.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Server\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Server\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Server.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Server\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Server\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Server.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Server\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Server.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Server\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Server\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Server.pdb

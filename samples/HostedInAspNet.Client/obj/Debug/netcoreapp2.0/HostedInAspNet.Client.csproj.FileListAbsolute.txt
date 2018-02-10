@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\obj\Debug\netcoreapp2.0\HostedInAspNet.Client.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\obj\Debug\netcoreapp2.0\HostedInAspNet.Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\bin\Debug\netcoreapp2.0\HostedInAspNet.Client.blazor.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\bin\Debug\netcoreapp2.0\HostedInAspNet.Client.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\bin\Debug\netcoreapp2.0\HostedInAspNet.Client.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\bin\Debug\netcoreapp2.0\HostedInAspNet.Client.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\bin\Debug\netcoreapp2.0\HostedInAspNet.Client.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\bin\Debug\netcoreapp2.0\HostedInAspNet.Client.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\obj\Debug\netcoreapp2.0\HostedInAspNet.Client.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\obj\Debug\netcoreapp2.0\HostedInAspNet.Client.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\obj\Debug\netcoreapp2.0\HostedInAspNet.Client.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\HostedInAspNet.Client\obj\Debug\netcoreapp2.0\HostedInAspNet.Client.pdb

@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Test.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Test.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Test.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Test.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Test.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Test.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Test.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Test.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Test.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\Microsoft.AspNetCore.Blazor.Test\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Test.pdb

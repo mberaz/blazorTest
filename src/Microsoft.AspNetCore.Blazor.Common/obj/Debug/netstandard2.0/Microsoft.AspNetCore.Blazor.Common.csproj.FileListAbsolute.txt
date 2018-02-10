@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Common\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Common.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Common\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Common.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Common\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Common.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Common\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Common\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Common.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Common\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Common.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Common\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Common.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.Common\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.Common.pdb

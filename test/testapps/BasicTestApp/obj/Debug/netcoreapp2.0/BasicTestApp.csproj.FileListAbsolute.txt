@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\obj\Debug\netcoreapp2.0\BasicTestApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\obj\Debug\netcoreapp2.0\BasicTestApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\bin\Debug\netcoreapp2.0\BasicTestApp.blazor.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\bin\Debug\netcoreapp2.0\BasicTestApp.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\bin\Debug\netcoreapp2.0\BasicTestApp.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\bin\Debug\netcoreapp2.0\BasicTestApp.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\bin\Debug\netcoreapp2.0\BasicTestApp.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\bin\Debug\netcoreapp2.0\BasicTestApp.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\obj\Debug\netcoreapp2.0\BasicTestApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\obj\Debug\netcoreapp2.0\BasicTestApp.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\obj\Debug\netcoreapp2.0\BasicTestApp.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\test\testapps\BasicTestApp\obj\Debug\netcoreapp2.0\BasicTestApp.pdb

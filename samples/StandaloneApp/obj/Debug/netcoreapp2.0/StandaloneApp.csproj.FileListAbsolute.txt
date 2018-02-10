@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\obj\Debug\netcoreapp2.0\StandaloneApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\obj\Debug\netcoreapp2.0\StandaloneApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\bin\Debug\netcoreapp2.0\StandaloneApp.blazor.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\bin\Debug\netcoreapp2.0\StandaloneApp.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\bin\Debug\netcoreapp2.0\StandaloneApp.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\bin\Debug\netcoreapp2.0\StandaloneApp.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\bin\Debug\netcoreapp2.0\StandaloneApp.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\bin\Debug\netcoreapp2.0\StandaloneApp.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Browser.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\obj\Debug\netcoreapp2.0\StandaloneApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\obj\Debug\netcoreapp2.0\StandaloneApp.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\obj\Debug\netcoreapp2.0\StandaloneApp.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\StandaloneApp\obj\Debug\netcoreapp2.0\StandaloneApp.pdb

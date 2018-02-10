@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.DevHost\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.DevHost.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.DevHost\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.DevHost.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.DevHost\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.DevHost.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.DevHost\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.DevHost.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.DevHost\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.DevHost.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.DevHost\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.DevHost\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.Server.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.DevHost\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.DevHost.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.DevHost\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.DevHost.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.DevHost\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.DevHost.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.DevHost\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.DevHost.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.DevHost\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.DevHost.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\src\Microsoft.AspNetCore.Blazor.DevHost\obj\Debug\netcoreapp2.0\Microsoft.AspNetCore.Blazor.DevHost.pdb

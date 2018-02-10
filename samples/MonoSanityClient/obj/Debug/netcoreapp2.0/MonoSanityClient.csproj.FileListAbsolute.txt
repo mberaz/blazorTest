@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\MonoSanityClient\obj\Debug\netcoreapp2.0\MonoSanityClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\MonoSanityClient\bin\Debug\netcoreapp2.0\MonoSanityClient.blazor.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\MonoSanityClient\bin\Debug\netcoreapp2.0\MonoSanityClient.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\MonoSanityClient\bin\Debug\netcoreapp2.0\MonoSanityClient.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\MonoSanityClient\bin\Debug\netcoreapp2.0\MonoSanityClient.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\MonoSanityClient\obj\Debug\netcoreapp2.0\MonoSanityClient.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\MonoSanityClient\obj\Debug\netcoreapp2.0\MonoSanityClient.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\MonoSanityClient\obj\Debug\netcoreapp2.0\MonoSanityClient.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\blazor\samples\MonoSanityClient\obj\Debug\netcoreapp2.0\MonoSanityClient.pdb
